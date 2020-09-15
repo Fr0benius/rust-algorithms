@@ -5,3 +5,4 @@ pub mod misc;
 pub mod range_query;
 pub mod scanner;
 pub mod string_proc;
+pub mod li_chao;
